@@ -1,1 +1,2 @@
-# Drought_Prediction
+# Final Project
+## Drought Prediction
